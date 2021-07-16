@@ -1,0 +1,5 @@
+Alok's salary is 100
+ mohit's salary is  50
+ Aditya's salary is 200
+ Nitesh's salary is 500
+ 

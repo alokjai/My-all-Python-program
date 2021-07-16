@@ -1,0 +1,4 @@
+Alok,100
+mohit, 50
+Aditya,200
+Nitesh,500

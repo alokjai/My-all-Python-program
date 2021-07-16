@@ -1,0 +1,3 @@
+name,email,mobileno 
+alok,alokjaiswl@gail.com,2445366656
+slok,slokjaiswl@gail.com,2265763545alok,20,alok@gmail.com,Male,Student,yes
